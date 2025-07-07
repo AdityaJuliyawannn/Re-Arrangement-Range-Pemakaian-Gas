@@ -59,5 +59,15 @@ Proyek ini menggunakan pendekatan **unsupervised learning** dan **statistik eksp
 
 - **Hasil akhir** menunjukkan bahwa pendekatan **multimetode** menghasilkan range pemakaian yang **lebih adil dan operasional**, serta meningkatkan proporsi pemakaian aktual terhadap batas kontrak pelanggan.
 
+👤 Penulis
+Aditya Pratama Juliyawan
+📧 adityajuliyawan@gmail.com
+🔗 GitHub
+
+📝 Lisensi
+Repositori ini terbuka dan dilisensikan di bawah MIT License.
+
+
+
 
 
